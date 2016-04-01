@@ -1,0 +1,6 @@
+ol_player_amarok1.o: ol_player_amarok1.c /usr/include/stdc-predef.h \
+ ../config.h
+
+/usr/include/stdc-predef.h:
+
+../config.h:

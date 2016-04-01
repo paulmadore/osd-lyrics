@@ -5,6 +5,7 @@
 #include "string.h"
 #include "ol_lrc_fetch_sogou.h"
 #include "ol_lrc_fetch_qianqian.h"
+#include "ol_lrc_fetch_azlyrics.h"
 #include "ol_lrc_fetch_minilyrics.h"
 #include "ol_utils.h"
 #include "ol_debug.h"

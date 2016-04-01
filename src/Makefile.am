@@ -85,6 +85,7 @@ osd_lyrics_SOURCES = \
 	ol_lrc_fetch_module.c \
 	ol_lrc_fetch_ui.c \
 	ol_lrc_fetch_sogou.c \
+	ol_lrc_fetch_azlyrics.c \
 	ol_lrc_fetch_qianqian.c \
 	ol_lrc_fetch_minilyrics.c \
 	ol_lrc_fetch_utils.c \

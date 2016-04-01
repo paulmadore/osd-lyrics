@@ -1,0 +1,5 @@
+ol_player_mpd.o: ol_player_mpd.c /usr/include/stdc-predef.h ../config.h
+
+/usr/include/stdc-predef.h:
+
+../config.h:
